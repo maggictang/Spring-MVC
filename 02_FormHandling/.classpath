@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_112">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0（2）">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/aspectjtools.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/org.aspectj.matcher.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-aop-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-aspects-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-beans-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-context-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-context-indexer-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-context-support-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-core-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-expression-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-instrument-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-instrument-tomcat-4.3.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-jcl-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-jdbc-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-jms-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-messaging-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-orm-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-oxm-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-test-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-tx-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-web-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-webflux-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-webmvc-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-webmvc-portlet-4.3.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/spring-websocket-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Java包/spring/spring-framework-5.0.3.RELEASE/libs/standard.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
